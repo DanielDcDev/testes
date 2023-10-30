@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    background: rgb(74, 70, 70);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    border: 3px solid;
+    display: -ms-flexbox;
+}
+button{
+    color: white;
+    background: rgb(34, 31, 31);
+    border: 2px solid rgb(20, 20, 84);
+    width:50px;
+    padding: 0;
+    margin: 0;
+}
